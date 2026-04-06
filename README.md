@@ -1,7 +1,5 @@
 
-<p align="center">
-  💻📚🎓 <strong>Moodle System – C++ OOP Educational Platform</strong>
-</p>
+<h2 align="center">🎓 MOODLE SYSTEM – C++ | OOP EDUCATIONAL PLATFORM</h2>
 
 <p align="center"><strong><em style="font-size: 160%;">Simplified Moodle-like system to manage students, users, and academic operations using C++ and Object-Oriented Programming (OOP)</em></strong></p>
 
