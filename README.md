@@ -5,7 +5,7 @@
 
 ---
 
-https://github.com/Dreamerol/Dreamerol/blob/2ee6cd4a21018b72bb11f02495043fb9dd6f87bf/education.jpg
+![Alt Text](https://github.com/Dreamerol/Dreamerol/blob/2ee6cd4a21018b72bb11f02495043fb9dd6f87bf/education.jpg)
 
 ---
 
