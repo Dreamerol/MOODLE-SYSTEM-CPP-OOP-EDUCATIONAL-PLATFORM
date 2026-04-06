@@ -87,3 +87,12 @@ By working on this project, I gained hands-on experience in **C++ programming**,
 ---
 
 > 💡 This project demonstrates the practical application of **C++ and OOP principles** to create a **scalable, modular educational platform**, while highlighting problem-solving, algorithmic thinking, and software design skills attractive to recruiters and HR professionals.
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-17-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/OOP-Object--Oriented-green?style=for-the-badge" alt="OOP">
+  <img src="https://img.shields.io/badge/Education-System-red?style=for-the-badge" alt="Education System">
+  <img src="https://img.shields.io/badge/Algorithms-Implemented-yellow?style=for-the-badge" alt="Algorithms">
+</p>
