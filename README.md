@@ -3,6 +3,12 @@
 
 <p align="center"><strong><em style="font-size: 160%;">Simplified Moodle-like system to manage students, users, and academic operations using C++ and Object-Oriented Programming (OOP)</em></strong></p>
 
+---
+
+https://github.com/Dreamerol/Dreamerol/blob/2ee6cd4a21018b72bb11f02495043fb9dd6f87bf/education.jpg
+
+---
+
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-17-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/OOP-Object--Oriented-green?style=for-the-badge" alt="OOP">
