@@ -4,13 +4,9 @@
 ## <p align="center"><strong><em style="font-size: 160%;">Simplified Moodle-like platform to manage students, users, and academic operations using C++ and Object-Oriented Programming (OOP)</em></strong></p>
 
 
----
+
 
 <img src="https://github.com/Dreamerol/Dreamerol/raw/50e0b9ce43817c26444ceaf223fe7e27dbc85b86/ZZZZZEDU.jpg" style="width:100%;" />
-
-
-![Alt Text](https://github.com/Dreamerol/Dreamerol/blob/50e0b9ce43817c26444ceaf223fe7e27dbc85b86/ZZZZZEDU.jpg)
-
 
 
 
