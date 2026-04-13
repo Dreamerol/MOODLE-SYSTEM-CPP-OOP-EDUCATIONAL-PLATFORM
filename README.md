@@ -3,9 +3,12 @@
 
 <p align="center"><strong><em style="font-size: 160%;">Simplified Moodle-like system to manage students, users, and academic operations using C++ and Object-Oriented Programming (OOP)</em></strong></p>
 
+
+https://github.com/Dreamerol/Dreamerol/blob/44641f418188c9bf367d6d10125e98d0fbff9a51/ZZZONLINE.jpg
+
 ---
 
-![Alt Text](https://github.com/Dreamerol/Dreamerol/blob/2ee6cd4a21018b72bb11f02495043fb9dd6f87bf/education.jpg)
+![Alt Text](https://github.com/Dreamerol/Dreamerol/blob/44641f418188c9bf367d6d10125e98d0fbff9a51/ZZZONLINE.jpg)
 
 ---
 
