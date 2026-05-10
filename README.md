@@ -1,5 +1,5 @@
 
-<h2 align="center">💻 𝗖++ 𝗢𝗢𝗣 𝗘𝗗𝗨𝗖𝗔𝗧𝗜𝗢𝗡𝗔𝗟 𝗦𝗬𝗦𝗧𝗘𝗠 | 𝗠𝗢𝗢𝗗𝗟𝗘-𝗜𝗡𝗦𝗣𝗜𝗥𝗘𝗗 𝗣𝗟𝗔𝗧𝗙𝗢𝗥𝗠</h2>
+<h1 align="center">💻 𝗖++ 𝗢𝗢𝗣 𝗘𝗗𝗨𝗖𝗔𝗧𝗜𝗢𝗡𝗔𝗟 𝗦𝗬𝗦𝗧𝗘𝗠 | 𝗠𝗢𝗢𝗗𝗟𝗘-𝗜𝗡𝗦𝗣𝗜𝗥𝗘𝗗 𝗣𝗟𝗔𝗧𝗙𝗢𝗥𝗠</h1>
 
 ## <p align="center"><strong><em style="font-size: 160%;">Simplified Moodle-like platform to manage students, users, and academic operations using C++ and Object-Oriented Programming (OOP)</em></strong></p>
 
